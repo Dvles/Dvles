@@ -18,3 +18,5 @@ From graphic design to web development, I’m progressing towards becoming a ful
 🚀 Currently seeking an internship where I can apply my skills, collaborate with others, and continue expanding my expertise.  
 
 Let's create something useful + have fun ٩(◕‿◕)۶  
+
+![Alt Text](https://gifyu.com/image/bbm7G)
