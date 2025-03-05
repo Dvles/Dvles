@@ -9,7 +9,7 @@ From graphic design to web development, I’m progressing towards becoming a ful
 - 🛠️ Love working on projects that merge design, development, and creative thinking  
 - 🤝 Excited to join a team where I can grow, learn, and contribute  
 
-🌱 **Currently learning:** Full-stack development, JavaScript, and modern frameworks  
+🌱 **Currently learning:** PHP, JavaScript, Symfony, Angular and modern frameworks  
 💞️ **Looking to collaborate on:** Web projects that blend creativity and functionality  
 📫 **How to reach me:** [[devotaleslie.](https://devotaleslie.netlify.app/)](https://devotaleslie.netlify.app/pages/french#contact)
 😄 **Pronouns:** She/Her
@@ -19,4 +19,4 @@ From graphic design to web development, I’m progressing towards becoming a ful
 
 Let's create something useful + have fun ٩(◕‿◕)۶  
 
-<img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px">
+<img src="https://s3.gifyu.com/images/bbm7G.gif" width="300px">
