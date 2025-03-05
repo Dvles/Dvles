@@ -11,7 +11,7 @@ From graphic design to web development, I’m progressing towards becoming a ful
 
 🌱 **Currently learning:** PHP, JavaScript, Symfony, Angular and modern frameworks  
 💞️ **Looking to collaborate on:** Web projects that blend creativity and functionality  
-📫 **How to reach me:** [[devotaleslie.](https://devotaleslie.netlify.app/)](https://devotaleslie.netlify.app/pages/french#contact)
+📫 **How to reach me:** https://devotaleslie.netlify.app/pages/french#contact
 😄 **Pronouns:** She/Her
 ⚡ **F̶u̶n̶ Serious fact:** I love patotoes in every shape and form! 
 
