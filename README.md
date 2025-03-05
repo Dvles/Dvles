@@ -19,4 +19,4 @@ From graphic design to web development, I’m progressing towards becoming a ful
 
 Let's create something useful + have fun ٩(◕‿◕)۶  
 
-![HelloWord](https://s3.gifyu.com/images/bbm7G.gif)
+<img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px">
