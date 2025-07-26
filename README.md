@@ -17,7 +17,7 @@ From graphic design to web development, I’m progressing towards becoming a ful
 
 ⚡ **F̶u̶n̶  Serious fact:** I love potatoes.
 
-🚀 Currently seeking an internship where I can apply my skills, collaborate with others, and continue expanding my expertise.  
+🚀 Currently seeking a role where I can apply my skills, collaborate with others, and continue expanding my expertise.  
 
 Let's create something useful + have fun ٩(◕‿◕)۶  
 
